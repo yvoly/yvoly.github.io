@@ -49,6 +49,6 @@ exit 0;
 > METACARD
 > ### 信息卡片
 > **依然***支持*`各种``[行内]`样式
-> ![图片描述不会显示](/asserts/img/avatar.jpg)
+> ![图片描述不会显示](https://cdn.jsdelivr.net/gh/yvoly/yvoly@main/avatar.jpg)
 
 ![图片描述](/asserts/img/avatar.jpg)

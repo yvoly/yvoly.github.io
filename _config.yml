@@ -9,8 +9,8 @@ owner:秋潺
     name: '秋潺'
 
 # Data
-avatar: https://cdn.jsdelivr.net/gh/yvoly/yvoly@main/avatar.jpg
-favicon: https://cdn.jsdelivr.net/gh/yvoly/yvoly@main/avatar.jpg
+avatar: ![](https://cdn.jsdelivr.net/gh/yvoly/yvoly@main/avatar.jpg)
+favicon: ![](https://cdn.jsdelivr.net/gh/yvoly/yvoly@main/avatar.jpg)
 
 # Build settings
 # use Github Flavored Markdown !important

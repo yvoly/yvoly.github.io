@@ -11,9 +11,6 @@ owner:秋潺
 # Data
 avatar: https://cdn.jsdelivr.net/gh/yvoly/yvoly@main/avatar.jpg
 favicon: https://cdn.jsdelivr.net/gh/yvoly/yvoly@main/avatar.jpg
-music:
-    title: なつめ千秋,GUMI - センチメンタルな愛慕心
-    url: /asserts/lib/plyr/test.mp3
 
 # Build settings
 # use Github Flavored Markdown !important

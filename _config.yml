@@ -1,15 +1,15 @@
 title: 秋潺
 description: 胡言乱语
-keyword: '秋潺,胡言,乱语,博客,blog'
+keyword: '秋潺,博客,blog'
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://yvoly.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 
 # About/contact
-owner:
+owner:秋潺
     name: '秋潺'
 
 # Data
-avatar: /asserts/img/avatar.jpg
+avatar: https://cdn.jsdelivr.net/gh/yvoly/yvoly@main/avatar.jpg
 favicon: /favicon.jpg
 music:
     title: なつめ千秋,GUMI - センチメンタルな愛慕心
